@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+flask
+gunicorn
+inflection
+pydantic
+requests
+starlette
